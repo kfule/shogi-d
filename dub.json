@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"kfule"
+	],
+	"copyright": "Copyright © 2019, kfule",
+	"description": "A shogi board lib.",
+	"license": "MIT",
+	"name": "shogi-d",
+	"dflags": ["-m64"],
+	"dflags-ldc": ["-mcpu=haswell"],
+	"stringImportPaths" : ["res"],
+    "targetType":"library"
+}

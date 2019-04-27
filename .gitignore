@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/shogi-d
+shogi-d.so
+shogi-d.dylib
+shogi-d.dll
+shogi-d.a
+shogi-d.lib
+shogi-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
